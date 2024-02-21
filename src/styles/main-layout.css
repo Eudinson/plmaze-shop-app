@@ -1,0 +1,12 @@
+.main-layout-header-container {
+    padding: 1rem 3rem;
+    box-shadow: 0px 0px 10px rgb(224, 224, 224);
+    position: sticky;
+    top: 0;
+    z-index: 1000 !important;
+    background-color: #fff;
+}
+
+.main-layout-outlet-container {
+    padding: 1rem 3rem;
+}
